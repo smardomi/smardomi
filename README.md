@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <div align="center">I'm Saeed, a .NET Developer 👨‍💻 working since 2018 🚀</div>  
+### <div align="center">I'm Saeed, a .NET Developer 👨‍💻🚀</div>  
   
   
 <br/>  
